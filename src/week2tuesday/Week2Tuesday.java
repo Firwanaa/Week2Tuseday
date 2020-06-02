@@ -18,6 +18,7 @@ public class Week2Tuesday {
         // TODO code application logic here
         System.out.println("learn github");
         System.out.println("Second Message");
+        System.out.println("Third line");
     }
     
 }
